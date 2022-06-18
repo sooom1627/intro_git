@@ -2,3 +2,4 @@ for git practice
 2nd commit
 git rm
 git status
+git diff
